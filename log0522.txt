@@ -1,0 +1,83 @@
+2017-05-22 08:21:14.119 breadwallet[27755:464423] BREventManager Saved event send:cancel with attributes {
+}
+2017-05-22 08:21:14.284 breadwallet[27755:464424] BREventManager received notification UIApplicationDidBecomeActiveNotification
+2017-05-22 08:21:14.284 breadwallet[27755:464422] BREventManager Saved event foreground with attributes {
+}
+2017-05-22 08:21:14.313 breadwallet[27755:463875] Reachability Flag Status: -R -----l- networkStatusForFlags
+2017-05-22 08:21:14.314 breadwallet[27755:463875] https://www.loshan.co.uk/api/v1/info
+2017-05-22 08:21:14.445 breadwallet[27755:464452] Error Domain=NSURLErrorDomain Code=-1003 "The operation couldn’t be completed. (NSURLErrorDomain error -1003.)" UserInfo=0x7fe398ddb590 {NSErrorFailingURLStringKey=https://www.loshan.co.uk/api/v1/info, NSErrorFailingURLKey=https://www.loshan.co.uk/api/v1/info, _kCFStreamErrorDomainKey=12, _kCFStreamErrorCodeKey=8, NSUnderlyingError=0x7fe398dd8920 "The operation couldn’t be completed. (kCFErrorDomainCFNetwork error -1003.)"}
+2017-05-22 08:21:14.447 breadwallet[27755:464452] Reachability Flag Status: -R -----l- networkStatusForFlags
+2017-05-22 08:21:14.448 breadwallet[27755:464452] https://litecoin.com/api/v1/ticker
+[BRAPIClient] bundleUrl /Users/user905476/Library/Developer/CoreSimulator/Devices/D3856AD9-9077-493E-8CCB-885C6DE37E8A/data/Containers/Data/Application/AD768A6C-2D13-4B12-92EE-79B30D745BF2/Documents/bundles/bread-buy-staging.tar
+[BRAPIClient] bundle bread-buy-staging exists, fetching diff for most recent version
+2017-05-22 08:21:15.034 breadwallet[27755:463875] Reachability Flag Status: -R -----l- networkStatusForFlags
+2017-05-22 08:21:15.039 breadwallet[27755:464425] CIContext creation with kCIContextUseSoftwareRenderer enabled is not supported on Simulator.
+2017-05-22 08:21:15.301 breadwallet[27755:463875] Attempting to badge the application icon but haven't received permission from the user to badge the application
+[BRAPIClient] URLSession challenge accepted!
+[KVStore] opened DB at file:///Users/user905476/Library/Developer/CoreSimulator/Devices/D3856AD9-9077-493E-8CCB-885C6DE37E8A/data/Containers/Data/Application/AD768A6C-2D13-4B12-92EE-79B30D745BF2/Documents/kvstore.sqlite3
+2017-05-22 08:21:15.581 breadwallet[27755:464457] BREventManager received notification BRPeerManagerSyncStartedNotification
+2017-05-22 08:21:15.581 breadwallet[27755:463875] Reachability Flag Status: -R -----l- networkStatusForFlags
+2017-05-22 08:21:15.582 breadwallet[27755:464457] BREventManager Saved event sync_started with attributes {
+}
+2017-05-22 08:21:15.629 breadwallet[27755:464463] DNS lookup 158.69.8.205
+2017-05-22 08:21:15.629 breadwallet[27755:464422] DNS lookup 5.135.26.151
+2017-05-22 08:21:15.629 breadwallet[27755:464425] DNS lookup 5.135.26.149
+2017-05-22 08:21:15.630 breadwallet[27755:464452] DNS lookup 164.132.71.34
+2017-05-22 08:21:15.630 breadwallet[27755:464463] DNS lookup 201.160.139.164
+2017-05-22 08:21:15.631 breadwallet[27755:464425] Reachability Flag Status: -R -----l- networkStatusForFlags
+2017-05-22 08:21:15.632 breadwallet[27755:464463] 201.160.139.164:9388 connecting
+2017-05-22 08:21:15.632 breadwallet[27755:464425] Reachability Flag Status: -R -----l- networkStatusForFlags
+2017-05-22 08:21:15.632 breadwallet[27755:464452] 5.135.26.151:9388 connecting
+2017-05-22 08:21:15.633 breadwallet[27755:464452] 5.135.26.151:9388 sending version
+2017-05-22 08:21:15.633 breadwallet[27755:464463] 201.160.139.164:9388 sending version
+2017-05-22 08:21:15.634 breadwallet[27755:464425] Reachability Flag Status: -R -----l- networkStatusForFlags
+2017-05-22 08:21:15.634 breadwallet[27755:464425] 5.135.26.149:9388 connecting
+2017-05-22 08:21:15.636 breadwallet[27755:464425] 5.135.26.149:9388 sending version
+[BRAPIClient] GET https://api.breadwallet.com/assets/bundles/bread-buy-staging/versions auth=false retry=0 -> status=200 duration=535ms errStr=
+[BRAPIClient] already at most recent version of bundle bread-buy-staging
+2017-05-22 08:21:15.745 breadwallet[27755:464423] Error getting sentinel, trying again. err=Error Domain=breadwallet.BRReplicatedKVStoreError Code=4 "The operation couldn’t be completed. (breadwallet.BRReplicatedKVStoreError error 4.)"
+[KVStore] SET key: sentinel ver: 0
+2017-05-22 08:21:15.763 breadwallet[27755:464423] Error setting kv object err=Error Domain=breadwallet.BRReplicatedKVStoreError Code=4 "The operation couldn’t be completed. (breadwallet.BRReplicatedKVStoreError error 4.)"
+2017-05-22 08:21:15.836 breadwallet[27755:463875] successfully updated bundle bread-buy-staging
+[BRAPIClient] GET https://api.breadwallet.com/anybody/features auth=false retry=0 -> status=200 duration=657ms errStr=
+2017-05-22 08:21:15.843 breadwallet[27755:464452] 5.135.26.151:9388 input stream connected in 0.210580s
+2017-05-22 08:21:15.844 breadwallet[27755:464452] 5.135.26.151:9388 output stream connected in 0.210928s
+2017-05-22 08:21:15.846 breadwallet[27755:464425] 5.135.26.149:9388 input stream connected in 0.210450s
+2017-05-22 08:21:15.847 breadwallet[27755:464425] 5.135.26.149:9388 output stream connected in 0.211011s
+2017-05-22 08:21:15.877 breadwallet[27755:464422] CIContext creation with kCIContextUseSoftwareRenderer enabled is not supported on Simulator.
+[BRAPIClient] GET https://api.breadwallet.com/kv/_all_keys auth=true retry=0 -> status=401 duration=228ms errStr=
+[BRAPIClient] GET https://api.breadwallet.com/kv/_all_keys auth=true retry=0 got authentication challenge from API - will attempt to get token
+[BRAPIClient] auth: entering group
+new device id 858E58C8-20CD-4C82-8965-EA01C212B2FA
+2017-05-22 08:21:16.018 breadwallet[27755:464452] incoming data <fbc0b6db 76657273 696f6e00 00000000 66000000 fd552d34> <> 
+2017-05-22 08:21:16.019 breadwallet[27755:464452] 5.135.26.151:9388 got version 70002, useragent:"/Satoshi:0.8.5.1/"
+2017-05-22 08:21:16.019 breadwallet[27755:464452] 5.135.26.151:9388 sending verack
+[BRAPIClient] POST /token json response: {
+    token = V1b6BLZDws97ogB26gH2ptn8SlYQfzEH9btI36aCYHMZnfqWARsqfrRxwGI8KIEOJzrkuAcp3Pv4xoU0JXOj4fxctBsfzhm9b0n0KG1rtqfLLOLbmgZynohb5lzGJKGS;
+    userID = 201358;
+}
+[BRAPIClient] GET https://api.breadwallet.com/kv/_all_keys auth=true retry=0 retrieved token, so retrying the original request
+2017-05-22 08:21:16.077 breadwallet[27755:464425] incoming data <fbc0b6db 76657273 696f6e00 00000000 66000000 42425d64> <> 
+2017-05-22 08:21:16.077 breadwallet[27755:464425] 5.135.26.149:9388 got version 70002, useragent:"/Satoshi:0.8.5.1/"
+2017-05-22 08:21:16.078 breadwallet[27755:464425] 5.135.26.149:9388 sending verack
+[BRAPIClient] GET https://api.breadwallet.com/kv/_all_keys auth=true retry=1 -> status=200 duration=103ms errStr=
+[KVStore] Syncing 1 keys
+[KVStore] GET key: sentinel ver: 1
+2017-05-22 08:21:16.177 breadwallet[27755:464452] incoming data <fbc0b6db 76657261 636b0000 00000000 00000000 5df6e0e2> <> 
+2017-05-22 08:21:16.177 breadwallet[27755:464452] 5.135.26.151:9388 got verack in 0.332761s
+2017-05-22 08:21:16.177 breadwallet[27755:464452] 5.135.26.151:9388 handshake completed
+2017-05-22 08:21:16.177 breadwallet[27755:464422] 5.135.26.151:9388 connected with lastblock 19351
+2017-05-22 08:21:16.236 breadwallet[27755:464425] incoming data <fbc0b6db 76657261 636b0000 00000000 00000000 5df6e0e2> <> 
+2017-05-22 08:21:16.236 breadwallet[27755:464425] 5.135.26.149:9388 got verack in 0.389018s
+2017-05-22 08:21:16.236 breadwallet[27755:464425] 5.135.26.149:9388 handshake completed
+[KVStore] Local key sentinel is newer, updating remotely...
+[KVStore] Finished syncing in 0.567441999912262
+2017-05-22 08:21:16.333 breadwallet[27755:463875] Finished syncing: error=Error Domain=KV_STORE Code=-1001 "nil" UserInfo=0x7fe398f4e680 {NSLocalizedDescription=nil}
+[BRAPIClient] PUT https://api.breadwallet.com/kv/1/sentinel auth=true retry=0 -> status=204 duration=92ms errStr=
+[KVStore] Error updating remote version for key sentinel, error: unknown
+2017-05-22 08:21:16.412 breadwallet[27755:464452] 5.135.26.151:9388 sending filterload
+2017-05-22 08:21:16.412 breadwallet[27755:464422] 5.135.26.149:9388 connected with lastblock 19351
+2017-05-22 08:21:16.413 breadwallet[27755:464422] 5.135.26.151:9388 calling getheaders with locators: (
+    "<41530b51 87bdf2bf 7d8433ae b9591a34 1e34425e 36d3527c d2d8112d 25594bd2>",
+    "<41530b51 87bdf2bf 7d8433ae b9591a34 1e34425e 36d3527c d2d8112d 25594bd2>"
+)
