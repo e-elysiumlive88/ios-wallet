@@ -781,10 +781,11 @@ services:(uint64_t)services
     for (NSUInteger off = l; off < l + 81*count; off += 81) {
         BRMerkleBlock *block = [BRMerkleBlock blockWithMessage:[message subdataWithRange:NSMakeRange(off, 81)]];
     
-        if (! block.valid) {
+        ////////////
+        /*if (! block.valid) {
             [self error:@"invalid block header %@", uint256_obj(block.blockHash)];
             return;
-        }
+        }*/
 
         dispatch_async(self.delegateQueue, ^{
             [self.delegate peer:self relayedBlock:block];
@@ -931,11 +932,14 @@ services:(uint64_t)services
     // non-tx message is received we should have all the tx in the merkleblock.
     BRMerkleBlock *block = [BRMerkleBlock blockWithMessage:message];
     
-    if (! block.valid) {
+    
+    
+    /////
+    /*if (! block.valid) {
         [self error:@"invalid merkleblock: %@", uint256_obj(block.blockHash)];
         return;
     }
-    else if (! self.sentFilter && ! self.sentGetdata) {
+    else */ if (! self.sentFilter && ! self.sentGetdata) {
         [self error:@"got merkleblock message before loading a filter"];
         return;
     }
