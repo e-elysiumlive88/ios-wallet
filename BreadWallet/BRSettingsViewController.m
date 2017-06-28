@@ -147,11 +147,12 @@
         fmt.dateFormat = [NSDateFormatter dateFormatFromTemplate:@"Mdjma" options:0 locale:[NSLocale currentLocale]];
     }
 
-   return [NSString stringWithFormat:NSLocalizedString(@"rate: %@ = %@\nupdated: %@\nblock #%d of %d\n"
+   return ///[NSString stringWithFormat:NSLocalizedString(@"rate: %@ = %@\nupdated: %@\nblock #%d of %d\n"
+    [NSString stringWithFormat:NSLocalizedString(@"block #%d of %d\n"
                                                        "connected peers: %d\ndl peer: %@", NULL),
-           [manager localCurrencyStringForAmount:SATOSHIS/manager.localCurrencyPrice],
-           [manager stringForAmount:SATOSHIS/manager.localCurrencyPrice],
-           [fmt stringFromDate:[NSDate dateWithTimeIntervalSinceReferenceDate:manager.secureTime]].lowercaseString,
+           ////[manager localCurrencyStringForAmount:SATOSHIS/manager.localCurrencyPrice],
+           ////[manager stringForAmount:SATOSHIS/manager.localCurrencyPrice],
+           ////[fmt stringFromDate:[NSDate dateWithTimeIntervalSinceReferenceDate:manager.secureTime]].lowercaseString,
            [BRPeerManager sharedInstance].lastBlockHeight,
            [BRPeerManager sharedInstance].estimatedBlockHeight,
            [BRPeerManager sharedInstance].peerCount,
@@ -180,7 +181,7 @@
                NSBundle.mainBundle.infoDictionary[@"CFBundleVersion"],
                ([BRWalletManager sharedInstance].watchOnly) ? @" (watch only)" : @""];
 
-        composeController.toRecipients = @[@"contact@loafwallet.xyz"];
+        composeController.toRecipients = @[@"elysiumdevs@gmail.com"];
         composeController.subject = @"support request";
         [composeController setMessageBody:msg isHTML:NO];
         composeController.mailComposeDelegate = self;
