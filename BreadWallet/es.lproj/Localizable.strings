@@ -44,7 +44,7 @@
 "\nallow camera access in\nSettings->Privacy->Camera->%@" = "\npermitir el acceso a la cámara en\nConfiguración->Privacidad->Cámara->%@";
 
 /* No comment provided by engineer. */
-"\nDO NOT let anyone see your recovery\nphrase or they can spend your bitcoins.\n" = "\nNO permitas que nadie vea tu frase de\nrecuperación, podrían usar tus Elysium.\n";
+"\nDO NOT let anyone see your recovery\nphrase or they can spend your elysium.\n" = "\nNO permitas que nadie vea tu frase de\nrecuperación, podrían usar tus Elysium.\n";
 
 /* No comment provided by engineer. */
 "\nDO NOT take a screenshot.\nScreenshots are visible to other apps\nand devices.\n" = "\nNO tomes una captura de pantalla.\nLas capturas son visibles para otras aplicaciones\ny dispositivos.\n";
@@ -170,10 +170,10 @@
 "couldn't transmit payment to bitcoin network" = "no se pudo transmitir el pago a la red Elysium";
 
 /* No comment provided by engineer. */
-"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your bitcoins)." = "DISPOSITIVO DE SEGURIDAD DUDOSA\nCualquier aplicación de 'jailbreak' puede acceder a la cadena de datos de otras aplicaciones (y robar tus Elysium).";
+"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your elysium)." = "DISPOSITIVO DE SEGURIDAD DUDOSA\nCualquier aplicación de 'jailbreak' puede acceder a la cadena de datos de otras aplicaciones (y robar tus Elysium).";
 
 /* No comment provided by engineer. */
-"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your bitcoins). Wipe this wallet immediately and restore on a secure device." = "DISPOSITIVO DE SEGURIDAD DUDOSA\nCualquier aplicación de 'jailbreak' puede acceder a la cadena de datos de otras aplicaciones (y robar tus Elysium). Borra inmediatamente esta cartera para restablecerla en un dispositivo seguro.";
+"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your elysium). Wipe this wallet immediately and restore on a secure device." = "DISPOSITIVO DE SEGURIDAD DUDOSA\nCualquier aplicación de 'jailbreak' puede acceder a la cadena de datos de otras aplicaciones (y robar tus Elysium). Borra inmediatamente esta cartera para restablecerla en un dispositivo seguro.";
 
 /* No comment provided by engineer. */
 "do it later" = "hazlo más tarde";
@@ -227,7 +227,7 @@
 "INVALID" = "NO VÁLIDO";
 
 /* No comment provided by engineer. */
-"Let others scan this QR code to get your bitcoin address. Anyone can send bitcoins to your wallet by transferring them to your address." = "Permite a otros escanear este código QR para obtener tu dirección Elysium. Cualquiera puede enviar Elysium a tu cartera transfiriéndolos a tu dirección.";
+"Let others scan this QR code to get your bitcoin address. Anyone can send elysium to your wallet by transferring them to your address." = "Permite a otros escanear este código QR para obtener tu dirección Elysium. Cualquiera puede enviar Elysium a tu cartera transfiriéndolos a tu dirección.";
 
 /* No comment provided by engineer. */
 "minute" = "minuto";
@@ -296,7 +296,7 @@
 "post-dated" = "postdatado";
 
 /* No comment provided by engineer. */
-"Receive bitcoins at this address: %@" = "Recibe Elysiums en esta dirección: %@";
+"Receive elysium at this address: %@" = "Recibe Elysiums en esta dirección: %@";
 
 /* No comment provided by engineer. */
 "received" = "recibido";

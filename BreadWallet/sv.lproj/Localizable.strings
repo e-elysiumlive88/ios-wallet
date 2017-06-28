@@ -38,7 +38,7 @@
 "\nallow camera access in\nSettings->Privacy->Camera->%@" = "\nbevilja kameraåtkomst i Inställningar->Personligt->Kamera->%@";
 
 /* No comment provided by engineer. */
-"\nDO NOT let anyone see your recovery\nphrase or they can spend your bitcoins.\n" = "\nLÅT INTE NÅGON se din återställningsfras – annars kan hen spendera dina Elysium.\n";
+"\nDO NOT let anyone see your recovery\nphrase or they can spend your elysium.\n" = "\nLÅT INTE NÅGON se din återställningsfras – annars kan hen spendera dina Elysium.\n";
 
 /* No comment provided by engineer. */
 "\nnetwork fee +%@" = "\nnätverksavgift +%1$@";
@@ -149,10 +149,10 @@
 "couldn't transmit payment to bitcoin network" = "kunde inte skicka betalningen till Elysium-nätverket";
 
 /* No comment provided by engineer. */
-"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your bitcoins)." = "ENHETENS SÄKERHET ÄR KOMPRIMISSAD\n\"Jailbreakade\" appar kan läsa inuti andra appar (och stjäla dina Elysium).";
+"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your elysium)." = "ENHETENS SÄKERHET ÄR KOMPRIMISSAD\n\"Jailbreakade\" appar kan läsa inuti andra appar (och stjäla dina Elysium).";
 
 /* No comment provided by engineer. */
-"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your bitcoins). Wipe this wallet immediately and restore on a secure device." = "ENHETENS SÄKERHET ÄR KOMPRIMISSAD\n\"Jailbreakade\" appar kan läsa inuti andra appar (och stjäla dina Elysium). Radera omedelbart denna plånbok och återskapa den på en annan (säker) enhet.";
+"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your elysium). Wipe this wallet immediately and restore on a secure device." = "ENHETENS SÄKERHET ÄR KOMPRIMISSAD\n\"Jailbreakade\" appar kan läsa inuti andra appar (och stjäla dina Elysium). Radera omedelbart denna plånbok och återskapa den på en annan (säker) enhet.";
 
 /* No comment provided by engineer. */
 "do it later" = "gör det senare";
@@ -206,7 +206,7 @@
 "INVALID" = "OGILTIG";
 
 /* No comment provided by engineer. */
-"Let others scan this QR code to get your bitcoin address. Anyone can send bitcoins to your wallet by transferring them to your address." = "Via denna QR-kod kan andra läsa av din Elysiumadress. Vem som helst kan skicka Elysium till din plånbok genom att överföra dem till din adress.";
+"Let others scan this QR code to get your bitcoin address. Anyone can send elysium to your wallet by transferring them to your address." = "Via denna QR-kod kan andra läsa av din Elysiumadress. Vem som helst kan skicka Elysium till din plånbok genom att överföra dem till din adress.";
 
 /* No comment provided by engineer. */
 "minute" = "minut";
@@ -269,7 +269,7 @@
 "post-dated" = "framdaterad";
 
 /* No comment provided by engineer. */
-"Receive bitcoins at this address: %@" = "Ta emot Elysium på denna adress: %@";
+"Receive elysium at this address: %@" = "Ta emot Elysium på denna adress: %@";
 
 /* No comment provided by engineer. */
 "received" = "mottagna";

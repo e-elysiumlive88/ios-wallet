@@ -44,7 +44,7 @@
 "\nallow camera access in\nSettings->Privacy->Camera->%@" = "\nAyarlar->Gizlilik->Kamera->%@ \nkısmından kamera erişimine izin verin";
 
 /* No comment provided by engineer. */
-"\nDO NOT let anyone see your recovery\nphrase or they can spend your bitcoins.\n" = "\nkimsenin kurtarma cümlenizi görmesine İZİN VERMEYİN\n      çünkü Elysiumlerinizi harcayabilirler.\n";
+"\nDO NOT let anyone see your recovery\nphrase or they can spend your elysium.\n" = "\nkimsenin kurtarma cümlenizi görmesine İZİN VERMEYİN\n      çünkü Elysiumlerinizi harcayabilirler.\n";
 
 /* No comment provided by engineer. */
 "\nDO NOT take a screenshot.\nScreenshots are visible to other apps\nand devices.\n" = "\nEkran görüntüsü ALMAYIN.\nEkran görüntüleri diğer uygulamalar ve \ncihazlar tarafından görülebilir.\n";
@@ -170,10 +170,10 @@
 "couldn't transmit payment to bitcoin network" = "ödeme Elysium ağına iletilemedi";
 
 /* No comment provided by engineer. */
-"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your bitcoins)." = "CİHAZ GÜVENLİĞİ ZAYIFLADI\nHerhangi bir 'jailbreak' uygulaması diğer uygulamaların verilerine erişebilir (ve Elysiumlerinizi çalabilir).";
+"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your elysium)." = "CİHAZ GÜVENLİĞİ ZAYIFLADI\nHerhangi bir 'jailbreak' uygulaması diğer uygulamaların verilerine erişebilir (ve Elysiumlerinizi çalabilir).";
 
 /* No comment provided by engineer. */
-"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your bitcoins). Wipe this wallet immediately and restore on a secure device." = "CİHAZ GÜVENLİĞİ ZAYIFLADI\nHerhangi bir 'jailbreak' uygulaması diğer uygulamaların verilerine erişebilir (ve Elysiumlerinizi çalabilir). Bu cüzdanı hemen silin ve güvenli bir cihaza yükleyin.";
+"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your elysium). Wipe this wallet immediately and restore on a secure device." = "CİHAZ GÜVENLİĞİ ZAYIFLADI\nHerhangi bir 'jailbreak' uygulaması diğer uygulamaların verilerine erişebilir (ve Elysiumlerinizi çalabilir). Bu cüzdanı hemen silin ve güvenli bir cihaza yükleyin.";
 
 /* No comment provided by engineer. */
 "do it later" = "daha sonra yap";
@@ -227,7 +227,7 @@
 "INVALID" = "GEÇERSİZ";
 
 /* No comment provided by engineer. */
-"Let others scan this QR code to get your bitcoin address. Anyone can send bitcoins to your wallet by transferring them to your address." = "Elysium adresinizi edinmek için diğer QR kodlarını tarayın. İsteyen herkes, Elysiumleri cüzdanınıza adresinize transfer yoluyla gönderebilir.";
+"Let others scan this QR code to get your bitcoin address. Anyone can send elysium to your wallet by transferring them to your address." = "Elysium adresinizi edinmek için diğer QR kodlarını tarayın. İsteyen herkes, Elysiumleri cüzdanınıza adresinize transfer yoluyla gönderebilir.";
 
 /* No comment provided by engineer. */
 "minute" = "dakika";
@@ -296,7 +296,7 @@
 "post-dated" = "ileri tarihli";
 
 /* No comment provided by engineer. */
-"Receive bitcoins at this address: %@" = "Elysiumleri şu adresten al: %@";
+"Receive elysium at this address: %@" = "Elysiumleri şu adresten al: %@";
 
 /* No comment provided by engineer. */
 "received" = "alındı";

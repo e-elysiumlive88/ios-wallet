@@ -44,7 +44,7 @@
 "\nallow camera access in\nSettings->Privacy->Camera->%@" = "\ntillat kameratilgang i\nInnstillinger->Personvern->Kamera->%@";
 
 /* No comment provided by engineer. */
-"\nDO NOT let anyone see your recovery\nphrase or they can spend your bitcoins.\n" = "\nIKKE la noen se din gjennopprettingsfrase;\nde kan sende dine Elysium.\n";
+"\nDO NOT let anyone see your recovery\nphrase or they can spend your elysium.\n" = "\nIKKE la noen se din gjennopprettingsfrase;\nde kan sende dine Elysium.\n";
 
 /* No comment provided by engineer. */
 "\nDO NOT take a screenshot.\nScreenshots are visible to other apps\nand devices.\n" = "\nIKKE TA et skjermbilde\nSkjermbilder er synlige for andre apper\nog enheter.\n";
@@ -170,10 +170,10 @@
 "couldn't transmit payment to bitcoin network" = "kunne ikke kringkaste betaling til Elysium-nettverket";
 
 /* No comment provided by engineer. */
-"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your bitcoins)." = "SIKKERHETEN TIL ENHETEN ER KOMPROMITTERT\nEnhver 'jailbreak'-app kan få tilgang til andre appers Keychain data (og stjele dine Elysium).";
+"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your elysium)." = "SIKKERHETEN TIL ENHETEN ER KOMPROMITTERT\nEnhver 'jailbreak'-app kan få tilgang til andre appers Keychain data (og stjele dine Elysium).";
 
 /* No comment provided by engineer. */
-"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your bitcoins). Wipe this wallet immediately and restore on a secure device." = "SIKKERHETEN TIL ENHETEN ER KOMPROMITTERT\nEnhver 'jailbreak'-app kan få tilgang til andre appers Keychain data (og stjele dine Elysium).";
+"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your elysium). Wipe this wallet immediately and restore on a secure device." = "SIKKERHETEN TIL ENHETEN ER KOMPROMITTERT\nEnhver 'jailbreak'-app kan få tilgang til andre appers Keychain data (og stjele dine Elysium).";
 
 /* No comment provided by engineer. */
 "do it later" = "gjør det senere";
@@ -227,7 +227,7 @@
 "INVALID" = "UGYLDIG";
 
 /* No comment provided by engineer. */
-"Let others scan this QR code to get your bitcoin address. Anyone can send bitcoins to your wallet by transferring them to your address." = "La andre skanne QR-koden for å få din Elysium adresse. Alle kan sende deg Elysium ved å bruke din adresse.";
+"Let others scan this QR code to get your bitcoin address. Anyone can send elysium to your wallet by transferring them to your address." = "La andre skanne QR-koden for å få din Elysium adresse. Alle kan sende deg Elysium ved å bruke din adresse.";
 
 /* No comment provided by engineer. */
 "minute" = "minutt";
@@ -296,7 +296,7 @@
 "post-dated" = "fremdatert";
 
 /* No comment provided by engineer. */
-"Receive bitcoins at this address: %@" = "Motta Elysium på denne adressen: %@";
+"Receive elysium at this address: %@" = "Motta Elysium på denne adressen: %@";
 
 /* No comment provided by engineer. */
 "received" = "mottatt";

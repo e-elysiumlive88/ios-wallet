@@ -38,7 +38,7 @@
 "\nallow camera access in\nSettings->Privacy->Camera->%@" = "\ngeef toegang tot de camera in\nInstellingen->Privacy->Camera->%@";
 
 /* No comment provided by engineer. */
-"\nDO NOT let anyone see your recovery\nphrase or they can spend your bitcoins.\n" = "\nLaat je herstel zin aan NIEMAND zien,\nanders hebben zij de mogelijkheid om\njouw Elysiums uit te geven.";
+"\nDO NOT let anyone see your recovery\nphrase or they can spend your elysium.\n" = "\nLaat je herstel zin aan NIEMAND zien,\nanders hebben zij de mogelijkheid om\njouw Elysiums uit te geven.";
 
 /* No comment provided by engineer. */
 "\nnetwork fee +%@" = "\nnetwerkvergoeding +%1$@";
@@ -149,10 +149,10 @@
 "couldn't transmit payment to bitcoin network" = "betaling niet naar het Elysium netwerk verstuurd";
 
 /* No comment provided by engineer. */
-"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your bitcoins)." = "BEVEILIGING VAN HET APPARAAT IN GEVAAR\nEen 'jailbreak' app heeft toegang tot de sleutelhanger van andere apps (en de mogelijkheid om je Elysiums te stelen).";
+"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your elysium)." = "BEVEILIGING VAN HET APPARAAT IN GEVAAR\nEen 'jailbreak' app heeft toegang tot de sleutelhanger van andere apps (en de mogelijkheid om je Elysiums te stelen).";
 
 /* No comment provided by engineer. */
-"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your bitcoins). Wipe this wallet immediately and restore on a secure device." = "BEVEILIGING VAN HET APPARAAT IN GEVAAR\nEen 'jailbreak' app heeft toegang tot de sleutelhanger van andere apps (en de mogelijkheid om je Elysiums te stelen). Verwijder deze portemonnee direct en herstel op een veilig apparaat.";
+"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your elysium). Wipe this wallet immediately and restore on a secure device." = "BEVEILIGING VAN HET APPARAAT IN GEVAAR\nEen 'jailbreak' app heeft toegang tot de sleutelhanger van andere apps (en de mogelijkheid om je Elysiums te stelen). Verwijder deze portemonnee direct en herstel op een veilig apparaat.";
 
 /* No comment provided by engineer. */
 "do it later" = "probeer later nogmaals";
@@ -206,7 +206,7 @@
 "INVALID" = "ONGELDIG";
 
 /* No comment provided by engineer. */
-"Let others scan this QR code to get your bitcoin address. Anyone can send bitcoins to your wallet by transferring them to your address." = "Laat anderen deze QR code scannen om jouw Elysium adres te verkrijgen. Iedereen kan Elysiums naar jouw portemonnee verzenden door deze te sturen naar jouw adres.";
+"Let others scan this QR code to get your bitcoin address. Anyone can send elysium to your wallet by transferring them to your address." = "Laat anderen deze QR code scannen om jouw Elysium adres te verkrijgen. Iedereen kan Elysiums naar jouw portemonnee verzenden door deze te sturen naar jouw adres.";
 
 /* No comment provided by engineer. */
 "minute" = "minuut";
@@ -269,7 +269,7 @@
 "post-dated" = "post-gedateerd";
 
 /* No comment provided by engineer. */
-"Receive bitcoins at this address: %@" = "Ontvang Elysiums op dit adres: %@";
+"Receive elysium at this address: %@" = "Ontvang Elysiums op dit adres: %@";
 
 /* No comment provided by engineer. */
 "received" = "ontvangen";

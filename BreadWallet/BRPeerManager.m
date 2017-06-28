@@ -46,7 +46,7 @@
 
 #define FIXED_PEERS          @"FixedPeers"
 #define PROTOCOL_TIMEOUT     40.0//20.0
-#define MAX_CONNECT_FAILURES 40 //20// notify user of network problems after this many connect failures in a row
+#define MAX_CONNECT_FAILURES 400 //20// notify user of network problems after this many connect failures in a row
 #define CHECKPOINT_COUNT     (sizeof(checkpoint_array)/sizeof(*checkpoint_array))
 #define GENESIS_BLOCK_HASH   (*(UInt256 *)@(checkpoint_array[0].hash).hexToData.reverse.bytes)
 #define SYNC_STARTHEIGHT_KEY @"SYNC_STARTHEIGHT"
@@ -255,7 +255,9 @@ static const char *dns_seeds[] = {
                     
                         [peers[i] addObject:[[BRPeer alloc] initWithAddress:addr port:port
                                              timestamp:(i > 0 ? now - age : now)
-                                             services:SERVICES_NODE_NETWORK | SERVICES_NODE_BLOOM]];
+                                             services:SERVICES_NODE_NETWORK
+                                             | SERVICES_NODE_BLOOM
+                                             ]];
                     }
 
                     freeaddrinfo(servinfo);

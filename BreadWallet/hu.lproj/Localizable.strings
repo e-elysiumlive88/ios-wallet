@@ -44,7 +44,7 @@
 "\nallow camera access in\nSettings->Privacy->Camera->%@" = "\nengedélyezd a kamera használatát a\nBeállítások->Adatvédelem->Kamera->%@ menüpontban";
 
 /* No comment provided by engineer. */
-"\nDO NOT let anyone see your recovery\nphrase or they can spend your bitcoins.\n" = "\nNE engedd, hogy más lássa a helyreállítási\nkódmondatodat, különben elköltheti a\nElysiumjaidat.";
+"\nDO NOT let anyone see your recovery\nphrase or they can spend your elysium.\n" = "\nNE engedd, hogy más lássa a helyreállítási\nkódmondatodat, különben elköltheti a\nElysiumjaidat.";
 
 /* No comment provided by engineer. */
 "\nDO NOT take a screenshot.\nScreenshots are visible to other apps\nand devices.\n" = "\nNE csinálj képernyőmentést!\nA képernyőmentések elérhetőek más\nalkalmazások és eszközök számára!\n";
@@ -170,10 +170,10 @@
 "couldn't transmit payment to bitcoin network" = "nem sikerült a tranzakciót a Elysium hálózatra továbbítani";
 
 /* No comment provided by engineer. */
-"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your bitcoins)." = "KÉSZÜLÉK BIZTONSÁGA KOMPROMITTÁLVA\nBármilyen 'jailbreak' alkalmazás hozzáférhet a többi alkalmazás kulcskarikájához (és ellophatja a Elysiumjaidat).";
+"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your elysium)." = "KÉSZÜLÉK BIZTONSÁGA KOMPROMITTÁLVA\nBármilyen 'jailbreak' alkalmazás hozzáférhet a többi alkalmazás kulcskarikájához (és ellophatja a Elysiumjaidat).";
 
 /* No comment provided by engineer. */
-"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your bitcoins). Wipe this wallet immediately and restore on a secure device." = "KÉSZÜLÉK BIZTONSÁGA KOMPROMITTÁLVA\nBármilyen 'jailbreak' alkalmazás hozzáférhet a többi alkalmazás kulcskarikájához (és ellophatja a Elysiumjaidat). Töröld ezt a tárcát azonnal és állítsd helyre egy biztonságos eszközön.";
+"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your elysium). Wipe this wallet immediately and restore on a secure device." = "KÉSZÜLÉK BIZTONSÁGA KOMPROMITTÁLVA\nBármilyen 'jailbreak' alkalmazás hozzáférhet a többi alkalmazás kulcskarikájához (és ellophatja a Elysiumjaidat). Töröld ezt a tárcát azonnal és állítsd helyre egy biztonságos eszközön.";
 
 /* No comment provided by engineer. */
 "do it later" = "később leírom";
@@ -227,7 +227,7 @@
 "INVALID" = "ÉRVÉNYTELEN";
 
 /* No comment provided by engineer. */
-"Let others scan this QR code to get your bitcoin address. Anyone can send bitcoins to your wallet by transferring them to your address." = "Engedd hogy ezt a QR kódot beolvassa aki Elysiumt akar neked küldeni.\nA címedet használva bárki tud Elysiumt küldeni a tárcádba.";
+"Let others scan this QR code to get your bitcoin address. Anyone can send elysium to your wallet by transferring them to your address." = "Engedd hogy ezt a QR kódot beolvassa aki Elysiumt akar neked küldeni.\nA címedet használva bárki tud Elysiumt küldeni a tárcádba.";
 
 /* No comment provided by engineer. */
 "minute" = "perc";
@@ -296,7 +296,7 @@
 "post-dated" = "későbbre keltezett";
 
 /* No comment provided by engineer. */
-"Receive bitcoins at this address: %@" = "Fogadj Elysiumt ezen a címen: %@";
+"Receive elysium at this address: %@" = "Fogadj Elysiumt ezen a címen: %@";
 
 /* No comment provided by engineer. */
 "received" = "fogadva";

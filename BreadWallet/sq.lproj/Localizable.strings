@@ -44,7 +44,7 @@
 "\nallow camera access in\nSettings->Privacy->Camera->%@" = "\nlejo çasjen e kamerës në\nSettings->Privacy->Camera->%@";
 
 /* No comment provided by engineer. */
-"\nDO NOT let anyone see your recovery\nphrase or they can spend your bitcoins.\n" = "\nMOS lejoni që askush të shoh frazën\nrikthyese ose ata mund të shpenzojnë\nElysium-at e juaj.";
+"\nDO NOT let anyone see your recovery\nphrase or they can spend your elysium.\n" = "\nMOS lejoni që askush të shoh frazën\nrikthyese ose ata mund të shpenzojnë\nElysium-at e juaj.";
 
 /* No comment provided by engineer. */
 "\nnetwork fee +%@" = "\ntarifa +%1$@";
@@ -155,10 +155,10 @@
 "couldn't transmit payment to bitcoin network" = "nuk mund të transmetohet pagesa në rrjetin Elysium";
 
 /* No comment provided by engineer. */
-"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your bitcoins)." = "SIGURIA E PAJISJES ËSHTË KOMPROMETUAR\n\nÇdo aplikacion 'jailbreak' mund të ketë çasje në të dhënat e aplikacioneve tjera (dhe mund të ju vjedhin Elysium-at e juaj).";
+"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your elysium)." = "SIGURIA E PAJISJES ËSHTË KOMPROMETUAR\n\nÇdo aplikacion 'jailbreak' mund të ketë çasje në të dhënat e aplikacioneve tjera (dhe mund të ju vjedhin Elysium-at e juaj).";
 
 /* No comment provided by engineer. */
-"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your bitcoins). Wipe this wallet immediately and restore on a secure device." = "SIGURIA E PAJISJES ËSHTË KOMPROMETUAR\n\nÇdo aplikacion 'jailbreak' mund të ketë çasje në të dhënat e aplikacioneve tjera (dhe mund të ju vjedhin Elysium-at e juaj). Fshij këtë kuletë menjëherë dhe riktheni atë në një pajisje të sigurtë.";
+"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your elysium). Wipe this wallet immediately and restore on a secure device." = "SIGURIA E PAJISJES ËSHTË KOMPROMETUAR\n\nÇdo aplikacion 'jailbreak' mund të ketë çasje në të dhënat e aplikacioneve tjera (dhe mund të ju vjedhin Elysium-at e juaj). Fshij këtë kuletë menjëherë dhe riktheni atë në një pajisje të sigurtë.";
 
 /* No comment provided by engineer. */
 "do it later" = "bëje më vonë";
@@ -212,7 +212,7 @@
 "INVALID" = "JOVALID";
 
 /* No comment provided by engineer. */
-"Let others scan this QR code to get your bitcoin address. Anyone can send bitcoins to your wallet by transferring them to your address." = "Lejo të tjerët të skanojn këtë QR kod për ta marrë Elysium adresën tuaj. Çdokush mund të ju dërgoj Elysium-a në kuletën tuaj duke i transferuar ato në adresën tuaj.";
+"Let others scan this QR code to get your bitcoin address. Anyone can send elysium to your wallet by transferring them to your address." = "Lejo të tjerët të skanojn këtë QR kod për ta marrë Elysium adresën tuaj. Çdokush mund të ju dërgoj Elysium-a në kuletën tuaj duke i transferuar ato në adresën tuaj.";
 
 /* No comment provided by engineer. */
 "minute" = "minutë";
@@ -275,7 +275,7 @@
 "post-dated" = "e ardhshme";
 
 /* No comment provided by engineer. */
-"Receive bitcoins at this address: %@" = "Prano Elysium në këtë adresë: %@";
+"Receive elysium at this address: %@" = "Prano Elysium në këtë adresë: %@";
 
 /* No comment provided by engineer. */
 "received" = "të pranuara";

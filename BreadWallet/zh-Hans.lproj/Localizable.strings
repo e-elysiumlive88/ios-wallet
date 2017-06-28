@@ -44,7 +44,7 @@
 "\nallow camera access in\nSettings->Privacy->Camera->%@" = "\n允许摄像机访问\n设置->隐私->摄像机->%@";
 
 /* No comment provided by engineer. */
-"\nDO NOT let anyone see your recovery\nphrase or they can spend your bitcoins.\n" = "\n不要让任何人看到你的恢复密语，\n否则他们就可以使用您的莱特币。\n";
+"\nDO NOT let anyone see your recovery\nphrase or they can spend your elysium.\n" = "\n不要让任何人看到你的恢复密语，\n否则他们就可以使用您的莱特币。\n";
 
 /* No comment provided by engineer. */
 "\nDO NOT take a screenshot.\nScreenshots are visible to other apps\nand devices.\n" = "\n不要截图。\n截图是对其他应用可见的。\n";
@@ -170,10 +170,10 @@
 "couldn't transmit payment to bitcoin network" = "不能将付款传送到莱特币网络";
 
 /* No comment provided by engineer. */
-"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your bitcoins)." = "设备的安全性受损\n任何'越狱'的应用程序都可以访问任何其他应用程序的钥匙链数据（并窃取你的莱特币）。";
+"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your elysium)." = "设备的安全性受损\n任何'越狱'的应用程序都可以访问任何其他应用程序的钥匙链数据（并窃取你的莱特币）。";
 
 /* No comment provided by engineer. */
-"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your bitcoins). Wipe this wallet immediately and restore on a secure device." = "设备的安全性受到威胁\n任何'越狱'的应用程序都可以访问任何其他应用程序的钥匙链数据（并窃取你的莱特币）。请立即清除该钱包并将其恢复于安全设备上。";
+"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your elysium). Wipe this wallet immediately and restore on a secure device." = "设备的安全性受到威胁\n任何'越狱'的应用程序都可以访问任何其他应用程序的钥匙链数据（并窃取你的莱特币）。请立即清除该钱包并将其恢复于安全设备上。";
 
 /* No comment provided by engineer. */
 "do it later" = "以后再做";
@@ -227,7 +227,7 @@
 "INVALID" = "无效";
 
 /* No comment provided by engineer. */
-"Let others scan this QR code to get your bitcoin address. Anyone can send bitcoins to your wallet by transferring them to your address." = "让别人扫描此二维码，以获得您的莱特币地址。任何人都可以通过这个地址将莱特币转移到您的钱包";
+"Let others scan this QR code to get your bitcoin address. Anyone can send elysium to your wallet by transferring them to your address." = "让别人扫描此二维码，以获得您的莱特币地址。任何人都可以通过这个地址将莱特币转移到您的钱包";
 
 /* No comment provided by engineer. */
 "minute" = "分钟";
@@ -296,7 +296,7 @@
 "post-dated" = "延期交易";
 
 /* No comment provided by engineer. */
-"Receive bitcoins at this address: %@" = "在此地址接收莱特币： %@";
+"Receive elysium at this address: %@" = "在此地址接收莱特币： %@";
 
 /* No comment provided by engineer. */
 "received" = "收到";

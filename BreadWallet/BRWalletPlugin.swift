@@ -83,7 +83,7 @@ import Foundation
             if let amounts = request.query["amount"] , amounts.count > 0 {
                 let amount = amounts[0]
                 var intAmount: Int64 = 0
-                if amount.contains(".") { // assume full bitcoins
+                if amount.contains(".") { // assume full elysium
                     if let x = Float(amount) {
                         intAmount = Int64(x * 100000000.0)
                     }

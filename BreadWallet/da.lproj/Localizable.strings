@@ -44,7 +44,7 @@
 "\nallow camera access in\nSettings->Privacy->Camera->%@" = "\ngiv adgang for kamera i\nIndstillinger->Anonymitet->Kamera->%@";
 
 /* No comment provided by engineer. */
-"\nDO NOT let anyone see your recovery\nphrase or they can spend your bitcoins.\n" = "\nLAD IKKE nogen se din\ngendannelsessætning, eller\nde kan bruge dine Elysium.";
+"\nDO NOT let anyone see your recovery\nphrase or they can spend your elysium.\n" = "\nLAD IKKE nogen se din\ngendannelsessætning, eller\nde kan bruge dine Elysium.";
 
 /* No comment provided by engineer. */
 "\nDO NOT take a screenshot.\nScreenshots are visible to other apps\nand devices.\n" = "\nTAG IKKE et screenshot.\nScreenshots er synlige for andre apps\nog enheder.\n";
@@ -170,10 +170,10 @@
 "couldn't transmit payment to bitcoin network" = "kunne ikke sende betalingen til Elysium-netværket";
 
 /* No comment provided by engineer. */
-"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your bitcoins)." = "ENHEDENS SIKKERHED KOMPROMITTERET\nEnhver \"jailbreak'et\" app kan tilgå enhver anden apps nøglerings-data (og stjæle dine Elysium).";
+"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your elysium)." = "ENHEDENS SIKKERHED KOMPROMITTERET\nEnhver \"jailbreak'et\" app kan tilgå enhver anden apps nøglerings-data (og stjæle dine Elysium).";
 
 /* No comment provided by engineer. */
-"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your bitcoins). Wipe this wallet immediately and restore on a secure device." = "ENHEDENS SIKKERHED KOMPROMITTERET\nEnhver \"jailbreak'et\" app kan tilgå enhver anden apps nøglerings-data (og stjæle dine Elysium). Slet straks denne tegnebog og gendan den på en sikker enhed.";
+"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your elysium). Wipe this wallet immediately and restore on a secure device." = "ENHEDENS SIKKERHED KOMPROMITTERET\nEnhver \"jailbreak'et\" app kan tilgå enhver anden apps nøglerings-data (og stjæle dine Elysium). Slet straks denne tegnebog og gendan den på en sikker enhed.";
 
 /* No comment provided by engineer. */
 "do it later" = "gør det senere";
@@ -227,7 +227,7 @@
 "INVALID" = "UGYLDIG";
 
 /* No comment provided by engineer. */
-"Let others scan this QR code to get your bitcoin address. Anyone can send bitcoins to your wallet by transferring them to your address." = "Lad andre scanne denne QR-kode for at få din Elysium-adresse. Enhver kan sende Elysiums til din tegnebog ved at overføre dem til din adresse.";
+"Let others scan this QR code to get your bitcoin address. Anyone can send elysium to your wallet by transferring them to your address." = "Lad andre scanne denne QR-kode for at få din Elysium-adresse. Enhver kan sende Elysiums til din tegnebog ved at overføre dem til din adresse.";
 
 /* No comment provided by engineer. */
 "minute" = "minut";
@@ -296,7 +296,7 @@
 "post-dated" = "postdateret";
 
 /* No comment provided by engineer. */
-"Receive bitcoins at this address: %@" = "Modtag Elysiums på denne adresse: %@";
+"Receive elysium at this address: %@" = "Modtag Elysiums på denne adresse: %@";
 
 /* No comment provided by engineer. */
 "received" = "modtaget";
