@@ -271,9 +271,11 @@ static NSDictionary *getKeychainDict(NSString *key, NSError **error)
     _currencyCodes = [defs arrayForKey:CURRENCY_CODES_KEY];
     _currencyNames = [defs arrayForKey:CURRENCY_NAMES_KEY];
     _currencyPrices = [defs arrayForKey:CURRENCY_PRICES_KEY];
+    
     self.localCurrencyCode = ([defs stringForKey:LOCAL_CURRENCY_CODE_KEY]) ?
         [defs stringForKey:LOCAL_CURRENCY_CODE_KEY] : [[NSLocale currentLocale] objectForKey:NSLocaleCurrencyCode];
-    dispatch_async(dispatch_get_main_queue(), ^{ [self updateExchangeRate]; });
+    
+    /////dispatch_async(dispatch_get_main_queue(), ^{ [self updateExchangeRate]; });
 }
 
 - (void)dealloc
@@ -958,12 +960,12 @@ static NSDictionary *getKeychainDict(NSString *key, NSError **error)
 
 - (void)updateExchangeRate
 {
-    [NSObject cancelPreviousPerformRequestsWithTarget:self selector:@selector(updateExchangeRate) object:nil];
+    /*[NSObject cancelPreviousPerformRequestsWithTarget:self selector:@selector(updateExchangeRate) object:nil];
     [self performSelector:@selector(updateExchangeRate) withObject:nil afterDelay:60.0];
 
     [self loadTicker:TICKER_URL withJSONKey:@"price" failoverHandler:^{
         [self loadTicker:TICKER_FAILOVER_URL withJSONKey:@"price" failoverHandler:nil];
-    }];
+    }];*/
 }
 
 #pragma mark - floating fees

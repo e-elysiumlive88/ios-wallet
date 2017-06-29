@@ -494,7 +494,7 @@
 "WRITE DOWN YOUR RECOVERY PHRASE" = "ZAPISZ FRAZĘ ODZYSKIWANIA DANYCH";
 
 /* No comment provided by engineer. */
-"you received bitcoin!" = "otrzymałeś Elysium!";
+"you received elysium!" = "otrzymałeś Elysium!";
 
 /* No comment provided by engineer. */
 "Your wallet may be out of sync.\nThis can often be fixed by rescanning the blockchain." = "Twój portfel może nie być zsynchronizowany.\nTo często może zostać naprawione przez ponowne skanowanie łańcucha bloków.";

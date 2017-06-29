@@ -467,7 +467,7 @@
 "WRITE DOWN YOUR RECOVERY PHRASE" = "skriv ner din återställnings fras";
 
 /* No comment provided by engineer. */
-"you received bitcoin!" = "du har fått Elysium!";
+"you received elysium!" = "du har fått Elysium!";
 
 /* No comment provided by engineer. */
 "Your wallet may be out of sync.\nThis can often be fixed by rescanning the blockchain." = "Din plånbok kan vara osynkroniserad.\nDetta åtgärdas oftast genom en omläsning av blockkedjan.";

@@ -512,7 +512,7 @@
 "WRITE DOWN YOUR RECOVERY PHRASE" = "復元フレーズを書き留めて下さい！";
 
 /* No comment provided by engineer. */
-"you received bitcoin!" = "ビットコインの着金確認！";
+"you received elysium!" = "ビットコインの着金確認！";
 
 /* No comment provided by engineer. */
 "Your wallet may be out of sync.\nThis can often be fixed by rescanning the blockchain." = "あなたのウォレットが同期されていない可能性があります。\nブロックチェーンの再スキャンを行うと直ることが大半です。";

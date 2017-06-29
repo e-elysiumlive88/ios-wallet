@@ -45,7 +45,7 @@
 #endif
 
 #define FIXED_PEERS          @"FixedPeers"
-#define PROTOCOL_TIMEOUT     40.0//20.0
+#define PROTOCOL_TIMEOUT     400.0//20.0
 #define MAX_CONNECT_FAILURES 400 //20// notify user of network problems after this many connect failures in a row
 #define CHECKPOINT_COUNT     (sizeof(checkpoint_array)/sizeof(*checkpoint_array))
 #define GENESIS_BLOCK_HASH   (*(UInt256 *)@(checkpoint_array[0].hash).hexToData.reverse.bytes)
@@ -1107,7 +1107,7 @@ static const char *dns_seeds[] = {
 - (void)peer:(BRPeer *)peer relayedPeers:(NSArray *)peers
 {
     NSLog(@"%@:%d relayed %d peer(s)", peer.host, peer.port, (int)peers.count);
-    [self.peers addObjectsFromArray:peers];
+    /*[self.peers addObjectsFromArray:peers];
     [self.peers minusSet:self.misbehavinPeers];
     [self sortPeers];
 
@@ -1121,8 +1121,10 @@ static const char *dns_seeds[] = {
         [self.peers removeObject:self.peers.lastObject];
     }
 
-    if (peers.count > 1 && peers.count < 1000) [self savePeers]; // peer relaying is complete when we receive <1000
-}
+    if(peers.count > 1 && peers.count < 1000) [self savePeers]; // peer relaying is complete when we receive <1000
+     */
+    
+     }
 
 - (void)peer:(BRPeer *)peer relayedTransaction:(BRTransaction *)transaction
 {

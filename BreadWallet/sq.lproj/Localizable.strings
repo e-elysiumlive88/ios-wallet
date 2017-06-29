@@ -473,7 +473,7 @@
 "WRITE DOWN YOUR RECOVERY PHRASE" = "SHKRUAJE FRAZËN RIKTHYESE DIKU SIGURTË";
 
 /* No comment provided by engineer. */
-"you received bitcoin!" = "ju pranuat Elysium!";
+"you received elysium!" = "ju pranuat Elysium!";
 
 /* No comment provided by engineer. */
 "Your wallet may be out of sync.\nThis can often be fixed by rescanning the blockchain." = "Si duket kuleta juaj nuk është e sinkronizuar.\nKjo shpesh mund të rregullohet duke riskanuar blockchain.";

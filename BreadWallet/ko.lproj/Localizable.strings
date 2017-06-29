@@ -494,7 +494,7 @@
 "WRITE DOWN YOUR RECOVERY PHRASE" = "복원 문구를 옮겨 적어주세요";
 
 /* No comment provided by engineer. */
-"you received bitcoin!" = "비트코인을 받았습니다!";
+"you received elysium!" = "비트코인을 받았습니다!";
 
 /* No comment provided by engineer. */
 "Your wallet may be out of sync.\nThis can often be fixed by rescanning the blockchain." = "지갑이 동기화 돼있지 않은 것 같습니다.\n보통 블록체인을 재스캔하면 고쳐집니다.";

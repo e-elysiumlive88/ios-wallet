@@ -522,7 +522,7 @@
 "WRITE DOWN YOUR RECOVERY PHRASE" = "WRITE DOWN YOUR RECOVERY PHRASE";
 
 /* No comment provided by engineer. */
-"you received bitcoin!" = "You received Elysium!";
+"you received elysium!" = "You received Elysium!";
 
 /* No comment provided by engineer. */
 "Your wallet may be out of sync.\nThis can often be fixed by rescanning the blockchain." = "Your wallet may be out of sync.\nThis can often be fixed by rescanning the blockchain.";

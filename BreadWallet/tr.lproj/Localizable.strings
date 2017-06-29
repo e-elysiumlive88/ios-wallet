@@ -494,7 +494,7 @@
 "WRITE DOWN YOUR RECOVERY PHRASE" = "KURTARMA METNİNİZİ NOT EDİNİZ";
 
 /* No comment provided by engineer. */
-"you received bitcoin!" = "Elysium aldınız!";
+"you received elysium!" = "Elysium aldınız!";
 
 /* No comment provided by engineer. */
 "Your wallet may be out of sync.\nThis can often be fixed by rescanning the blockchain." = "Cüzdanınız eşitlenmemiş olabilir.\nBlok zincirini yeniden taratmak bunu sık sık düzeltebilir.";

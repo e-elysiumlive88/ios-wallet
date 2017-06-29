@@ -494,7 +494,7 @@
 "WRITE DOWN YOUR RECOVERY PHRASE" = "写下你的恢复密语";
 
 /* No comment provided by engineer. */
-"you received bitcoin!" = "你收到了莱特币 ！";
+"you received elysium!" = "你收到了莱特币 ！";
 
 /* No comment provided by engineer. */
 "Your wallet may be out of sync.\nThis can often be fixed by rescanning the blockchain." = "你的钱包可能不同步。\n这通常可以通过重新扫描区块链来修复。";

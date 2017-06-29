@@ -494,7 +494,7 @@
 "WRITE DOWN YOUR RECOVERY PHRASE" = "ÍRD LE A HELYREÁLLÍTÁSI KÓDMONDATODAT";
 
 /* No comment provided by engineer. */
-"you received bitcoin!" = "Elysiumt kaptál!";
+"you received elysium!" = "Elysiumt kaptál!";
 
 /* No comment provided by engineer. */
 "Your wallet may be out of sync.\nThis can often be fixed by rescanning the blockchain." = "A tárcád nincs szinkronban.\nÁltalában segít az, ha újraszkenneled a blockchaint.";

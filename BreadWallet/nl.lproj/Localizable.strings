@@ -467,7 +467,7 @@
 "WRITE DOWN YOUR RECOVERY PHRASE" = "SCHRIJF JE HERSTEL ZIN OP";
 
 /* No comment provided by engineer. */
-"you received bitcoin!" = "je hebt Elysiums ontvangen!";
+"you received elysium!" = "je hebt Elysiums ontvangen!";
 
 /* No comment provided by engineer. */
 "Your wallet may be out of sync.\nThis can often be fixed by rescanning the blockchain." = "Je portemonnee is mogelijk niet gesynchroniseerd.\nDit kan vaak opgelost worden door de blockchain te herscannen.";

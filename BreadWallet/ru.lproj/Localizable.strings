@@ -512,7 +512,7 @@
 "WRITE DOWN YOUR RECOVERY PHRASE" = "ЗАПИШИТЕ ВАШУ ФРАЗУ ВОССТАНОВЛЕНИЯ";
 
 /* No comment provided by engineer. */
-"you received bitcoin!" = "вы получили биткойны!";
+"you received elysium!" = "вы получили биткойны!";
 
 /* No comment provided by engineer. */
 "Your wallet may be out of sync.\nThis can often be fixed by rescanning the blockchain." = "Кажется, ваш кошелек рассинхронизирован.\nЭто может быть исправлено путём повторного сканирования blockchain.";

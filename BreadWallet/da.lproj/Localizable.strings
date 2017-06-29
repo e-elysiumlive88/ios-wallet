@@ -494,7 +494,7 @@
 "WRITE DOWN YOUR RECOVERY PHRASE" = "SKRIV DIN GENDANNELSESSÆTNING NED";
 
 /* No comment provided by engineer. */
-"you received bitcoin!" = "du har modtaget Elysium!";
+"you received elysium!" = "du har modtaget Elysium!";
 
 /* No comment provided by engineer. */
 "Your wallet may be out of sync.\nThis can often be fixed by rescanning the blockchain." = "Din tegnebog kan være ude af sync.\nDette kan ofte løses ved at scanne blokkæden igen.";
