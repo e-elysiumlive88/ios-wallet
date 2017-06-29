@@ -181,7 +181,7 @@
                NSBundle.mainBundle.infoDictionary[@"CFBundleVersion"],
                ([BRWalletManager sharedInstance].watchOnly) ? @" (watch only)" : @""];
 
-        composeController.toRecipients = @[@"elysiumdevs@gmail.com"];
+        composeController.toRecipients = @[@"devs@e-elysium.com"];
         composeController.subject = @"support request";
         [composeController setMessageBody:msg isHTML:NO];
         composeController.mailComposeDelegate = self;
